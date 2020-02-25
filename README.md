@@ -8,7 +8,7 @@
  cd client npm install
  cd ..
  
- #run front and backend
+ # Run front and backend
  npm run dev
  
  # Backend only
